@@ -11,7 +11,7 @@ This project analyzes customer demographic data to identify the characteristics 
 - Slicers
 - Data cleaning
 ## Dashboard
-![Bike Sales Dashboard]
+[Bike Sales Dashboard]
 
 <img width="1000" height="719" alt="Screenshot 2026-07-16 at 11 22 25" src="https://github.com/user-attachments/assets/e6d16724-e50f-4876-a3cb-48b7395d5641" />
 <img width="910" height="689" alt="Bike Sales Tables" src="https://github.com/user-attachments/assets/5a2dcdd6-7ce9-4ef5-a320-d710f09161df" />
